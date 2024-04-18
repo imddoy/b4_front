@@ -3,7 +3,7 @@
 
 SGM b4 프론트 레포입니다 <br> 
 
-## 구경하거 가기 🔗 : https://web-b4front-12fhqa2blnsplq5o.sel5.cloudtype.app/
+## 구경하거 가기 🔗 : https://b4-front.vercel.app/
 
 # 😀 개발팀 팀원 소개
 
